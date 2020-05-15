@@ -5,7 +5,7 @@ description:
  Just a simple blog, updates on my journey through learning github. Looking forward to this process. 
  It will just be one day at a time for now, but hopefully the time spent will pay off.
 
-theme:minima 
+theme: minima 
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
