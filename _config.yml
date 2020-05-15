@@ -1,10 +1,10 @@
-title: ddecks blog flex
+title: ddecks blog flex!
 author: ddecks
 email: devindecker@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 Excited to learn more about github, and document my journey here. Frustrated because it's slow going.
 I plan on doing it one day at a time
-
+theme:  Minima 
 # social links
 twitter_username: deadfast # DO NOT include the @ character, or else the build will fail!
 github_username:  ddecks # DO NOT include the @ character, or else the build will fail!
